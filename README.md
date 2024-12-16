@@ -8,7 +8,14 @@ The electronics store app is an e-commerce platform that serves as a one-stop sh
 * Backend: Express-based NodeJS
     - Express as the web framework for handling HTTP requests, served using Node.js for backend operations
   
-## Steps to use the application
+## Steps to download and use the code:
+* Clone the repository to your local machine using the following command: git clone https://github.com/sushma110396/Electronics-store.git
+* Move to the final folder: cd Electronics-store/final
+* Install the dependencies: npm install
+* Start the application: npm start
+* Visit the application at http://localhost:3000
+
+## Usage of the application
 * User login: Users can login with their username on the login page.
 * Home page: Products are displayed on the home page for purchase. 
 * Product Detail: 
