@@ -44,4 +44,5 @@ The electronics store app is an e-commerce platform that serves as a one-stop sh
 ![image](https://github.com/user-attachments/assets/f20f5ffc-c726-42c7-847c-ffb2773ad0f1)
 ![image](https://github.com/user-attachments/assets/450a8f34-edf4-405c-a65f-adb22be63cad)
 ![image](https://github.com/user-attachments/assets/d696cc2c-d9de-4d32-8406-f2e48969f8b5)
+![image](https://github.com/user-attachments/assets/7c11d3ff-a331-4ac0-bb70-de59bcb3ab8e)
 
