@@ -39,3 +39,6 @@ The electronics store app is an e-commerce platform that serves as a one-stop sh
 * PATCH /api/cart: Add/update items in the cart.
 * POST /api/order: Place an order for the cart items.
 * DELETE /api/session: Logout from the app.
+
+##Screenshots:
+![image](https://github.com/user-attachments/assets/f20f5ffc-c726-42c7-847c-ffb2773ad0f1)
