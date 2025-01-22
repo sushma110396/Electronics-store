@@ -1,4 +1,4 @@
-# Final Project
+# Eletronics store
 
 The electronics store app is an e-commerce platform that serves as a one-stop shopping hub for electronic products. Users can browse a wide range of products, view the product details, add items to cart, proceed to checkout and place order.
 
